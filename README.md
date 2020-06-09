@@ -6,8 +6,10 @@ Steps to create your own game:
 3. Modify the file 'wordfile.txt' and add your own words to it in CAPITALS.
 4. Create a new python file in the same directory and write three lines of code as given below:
 ---------------------------------------------------------------------------------------------------------------------------------
+
 from classhangman import hangman
 game=hangman()
 game.checkword()
+
 ---------------------------------------------------------------------------------------------------------------------------------
 5. Run the file and enjoy the game!
